@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+    "gcd","semver"
+]
+
+[workspace.dependencies]
+owi_sym = {path = "../owi/src/rust"}

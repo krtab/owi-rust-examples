@@ -1,0 +1,8 @@
+[package]
+name = "owi-on-semver"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+semver = "1.0.25"
+owi_sym.workspace = true
