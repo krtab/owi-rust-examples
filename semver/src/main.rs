@@ -12,5 +12,6 @@ fn test<const N: usize>() {
 }
 
 fn main() {
-    test::<5>();
+    println!("Coucou");
+    // test::<5>();
 }

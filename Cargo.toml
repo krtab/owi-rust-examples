@@ -1,7 +1,7 @@
 [workspace]
 resolver = "2"
 members = [
-    "gcd","semver"
+    "gcd", "overflow_fail", "rc-zip","semver"
 ]
 
 [workspace.dependencies]

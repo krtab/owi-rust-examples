@@ -1,0 +1,8 @@
+[package]
+name = "rc-zip"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rc-zip = { path = "/home/arthur/RUST/OSS/rc-zip/rc-zip" }
+owi_sym.workspace = true

@@ -1,1 +1,4 @@
 target/
+model.txt
+owi-out
+*.wat
